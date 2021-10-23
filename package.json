@@ -1,0 +1,15 @@
+{
+  "name": "neko-nya-self",
+  "version": "1.0.0",
+  "description": "HentCord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "misaka0954",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "discord.js-selfbot-v11": "^11.5.1"
+  }
+}
